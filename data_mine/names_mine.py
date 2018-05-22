@@ -11,7 +11,7 @@ proxies = {
 
 print_lock = threading.Lock()
 
-def reverse_main(filename='names', buffer=25, amount=2**1000, proxies=None):
+def reverse_mine(filename='names', buffer=25, amount=2**1000, proxies=None):
     url = "https://nominatim.openstreetmap.org/reverse?format=jsonv2"
 
     b = buffer
@@ -51,4 +51,4 @@ def reverse_main(filename='names', buffer=25, amount=2**1000, proxies=None):
             writer.save()
 
 if __name__ == '__main__':
-    reverse_main(proxies=proxies)
+    reverse_mine(proxies=proxies)

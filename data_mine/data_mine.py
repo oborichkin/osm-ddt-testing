@@ -27,7 +27,7 @@ w_current = 1
 print_lock = threading.Lock()
 write_lock = threading.Lock()
 
-def reverse_main(writer, region=(59.8944444, 30.2641667, 1), buffer=25, amount=2**1000, proxies=None):
+def reverse_mine(writer, region=(59.8944444, 30.2641667, 1), buffer=25, amount=2**1000, proxies=None):
     url = "https://nominatim.openstreetmap.org/reverse?format=jsonv2"
 
     b = buffer
@@ -63,7 +63,7 @@ def reverse_main(writer, region=(59.8944444, 30.2641667, 1), buffer=25, amount=2
             w_rows = 0
             list_of_places = []
 
-def forward_main(filename='forward_data', buffer=25, proxies=None):
+def forward_mine(filename='forward_data', buffer=25, proxies=None):
     url = "https://nominatim.openstreetmap.org/search?format=jsonv2"
 
     b = buffer
@@ -116,7 +116,7 @@ if __name__ == '__main__':
     df_header = ['place_id', 'lat', 'lon', 'category', 'type', 'addresstype', 'display_name', 'address']
     pd.DataFrame(columns=df_header).to_excel(writer, index=False)
 
-    Thread(target=reverse_main, args=(writer, (59.8944444, 30.2641667, 1), 25, 2**1000, proxies)).start()
-    Thread(target=reverse_main, args=(writer, (55.7494733, 37.3523210, 1), 25, 2**1000, proxies)).start()
-    Thread(target=reverse_main, args=(writer, (33.8688914, -118.5496523, 1), 25, 2**1000, proxies)).start()
-    Thread(target=forward_main, args=('forward_data', 25, proxies)).start()
+    Thread(target=reverse_mine, args=(writer, (59.8944444, 30.2641667, 1), 25, 2**1000, proxies)).start()
+    Thread(target=reverse_mine, args=(writer, (55.7494733, 37.3523210, 1), 25, 2**1000, proxies)).start()
+    Thread(target=reverse_mine, args=(writer, (33.8688914, -118.5496523, 1), 25, 2**1000, proxies)).start()
+    Thread(target=forward_mine, args=('forward_data', 25, proxies)).start()

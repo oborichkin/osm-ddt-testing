@@ -1,0 +1,1002 @@
+[
+    {
+        "place_id": 82102086,
+        "lat": 58.6108252674,
+        "lon": 58.4033274675,
+        "category": "highway",
+        "type": "unclassified",
+        "addresstype": "road",
+        "display_name": "Межселенная территория, Горнозаводский район, Пермский край, Приволжский федеральный округ, 618825, РФ",
+        "address": "{'city': 'Межселенная территория', 'county': 'Горнозаводский район', 'state': 'Пермский край', 'postcode': '618825', 'country': 'РФ', 'country_code': 'ru'}"
+    },
+    {
+        "place_id": 138191073,
+        "lat": 58.5681869715,
+        "lon": 58.2767440819,
+        "category": "highway",
+        "type": "unclassified",
+        "addresstype": "road",
+        "display_name": "Пашийское сельское поселение, Горнозаводский район, Пермский край, Приволжский федеральный округ, 618825, РФ",
+        "address": "{'city': 'Пашийское сельское поселение', 'county': 'Горнозаводский район', 'state': 'Пермский край', 'postcode': '618825', 'country': 'РФ', 'country_code': 'ru'}"
+    },
+    {
+        "place_id": 166027893,
+        "lat": 54.4463661887,
+        "lon": 54.0762681431,
+        "category": "highway",
+        "type": "residential",
+        "addresstype": "road",
+        "display_name": "Балтаево, Туймазинский район, Башкортостан, Приволжский федеральный округ, 452789, РФ",
+        "address": "{'village': 'Балтаево', 'county': 'Туймазинский район', 'state': 'Башкортостан', 'postcode': '452789', 'country': 'РФ', 'country_code': 'ru'}"
+    },
+    {
+        "place_id": 179148614,
+        "lat": 32.7110788481,
+        "lon": 31.9628110434,
+        "category": "boundary",
+        "type": "administrative",
+        "addresstype": "boundary",
+        "display_name": "دمياط, مصر",
+        "address": "{'state': 'دمياط', 'country': 'مصر', 'country_code': 'eg'}"
+    },
+    {
+        "place_id": 111098955,
+        "lat": 58.4580388624,
+        "lon": 58.4809183744,
+        "category": "highway",
+        "type": "unclassified",
+        "addresstype": "road",
+        "display_name": "Горнозаводское городское поселение, Горнозаводский район, Пермский край, Приволжский федеральный округ, РФ",
+        "address": "{'city': 'Горнозаводское городское поселение', 'county': 'Горнозаводский район', 'state': 'Пермский край', 'country': 'РФ', 'country_code': 'ru'}"
+    },
+    {
+        "place_id": 92623869,
+        "lat": 58.2874080049,
+        "lon": 58.4719531122,
+        "category": "highway",
+        "type": "unclassified",
+        "addresstype": "road",
+        "display_name": "Кусье-Александровское сельское поселение, Горнозаводский район, Пермский край, Приволжский федеральный округ, 618831, РФ",
+        "address": "{'city': 'Кусье-Александровское сельское поселение', 'county': 'Горнозаводский район', 'state': 'Пермский край', 'postcode': '618831', 'country': 'РФ', 'country_code': 'ru'}"
+    },
+    {
+        "place_id": 143285606,
+        "lat": 58.77919662,
+        "lon": 58.705375373,
+        "category": "highway",
+        "type": "track",
+        "addresstype": "road",
+        "display_name": "бывшая узкоколейка Усьвинской ЖД, Межселенная территория, Горнозаводский район, Пермский край, Приволжский федеральный округ, 618841, РФ",
+        "address": "{'road': 'бывшая узкоколейка Усьвинской ЖД', 'city': 'Межселенная территория', 'county': 'Горнозаводский район', 'state': 'Пермский край', 'postcode': '618841', 'country': 'РФ', 'country_code': 'ru'}"
+    },
+    {
+        "place_id": 178181711,
+        "lat": 57.986894844,
+        "lon": 58.6125964403,
+        "category": "boundary",
+        "type": "administrative",
+        "addresstype": "boundary",
+        "display_name": "городской округ Нижний Тагил, Горнозаводской управленческий округ, Свердловская область, Уральский федеральный округ, РФ",
+        "address": "{'county': 'городской округ Нижний Тагил', 'state_district': 'Горнозаводской управленческий округ', 'state': 'Свердловская область', 'country': 'РФ', 'country_code': 'ru'}"
+    },
+    {
+        "place_id": 179148614,
+        "lat": 32.8263016396,
+        "lon": 32.6077223688,
+        "category": "boundary",
+        "type": "administrative",
+        "addresstype": "boundary",
+        "display_name": "دمياط, مصر",
+        "address": "{'state': 'دمياط', 'country': 'مصر', 'country_code': 'eg'}"
+    },
+    {
+        "place_id": 137195743,
+        "lat": 54.1481663112,
+        "lon": 54.7158695079,
+        "category": "highway",
+        "type": "unclassified",
+        "addresstype": "road",
+        "display_name": "Ташлинский сельсовет, Альшеевский район, Башкортостан, Приволжский федеральный округ, 452112, РФ",
+        "address": "{'city': 'Ташлинский сельсовет', 'county': 'Альшеевский район', 'state': 'Башкортостан', 'postcode': '452112', 'country': 'РФ', 'country_code': 'ru'}"
+    },
+    {
+        "place_id": 101230362,
+        "lat": 54.5132489316,
+        "lon": 54.5528545791,
+        "category": "highway",
+        "type": "tertiary",
+        "addresstype": "road",
+        "display_name": "Гафурийский сельсовет, Буздякский район, Башкортостан, Приволжский федеральный округ, РФ",
+        "address": "{'city': 'Гафурийский сельсовет', 'county': 'Буздякский район', 'state': 'Башкортостан', 'country': 'РФ', 'country_code': 'ru'}"
+    },
+    {
+        "place_id": 115806880,
+        "lat": 53.7773287862,
+        "lon": 54.0196653437,
+        "category": "highway",
+        "type": "tertiary",
+        "addresstype": "road",
+        "display_name": "Шкапово, Бижбулякский район, Башкортостан, Приволжский федеральный округ, 452042, РФ",
+        "address": "{'hamlet': 'Шкапово', 'county': 'Бижбулякский район', 'state': 'Башкортостан', 'postcode': '452042', 'country': 'РФ', 'country_code': 'ru'}"
+    },
+    {
+        "place_id": 179798670,
+        "lat": 31.9484465109,
+        "lon": 32.7154032142,
+        "category": "boundary",
+        "type": "administrative",
+        "addresstype": "boundary",
+        "display_name": "شمال سيناء, مصر",
+        "address": "{'state': 'شمال سيناء', 'country': 'مصر', 'country_code': 'eg'}"
+    },
+    {
+        "place_id": 179025179,
+        "lat": 58.8895184719,
+        "lon": 58.5323440653,
+        "category": "boundary",
+        "type": "administrative",
+        "addresstype": "boundary",
+        "display_name": "Межселенная территория, Горнозаводский район, Пермский край, Приволжский федеральный округ, 618861, РФ",
+        "address": "{'city': 'Межселенная территория', 'county': 'Горнозаводский район', 'state': 'Пермский край', 'postcode': '618861', 'country': 'РФ', 'country_code': 'ru'}"
+    },
+    {
+        "place_id": 112927223,
+        "lat": 54.0355464666,
+        "lon": 54.5621384735,
+        "category": "highway",
+        "type": "residential",
+        "addresstype": "road",
+        "display_name": "Чубукаран, Белебеевский район, Башкортостан, Приволжский федеральный округ, 452015, РФ",
+        "address": "{'hamlet': 'Чубукаран', 'county': 'Белебеевский район', 'state': 'Башкортостан', 'postcode': '452015', 'country': 'РФ', 'country_code': 'ru'}"
+    },
+    {
+        "place_id": 179146544,
+        "lat": 32.369987557,
+        "lon": 32.4219445357,
+        "category": "boundary",
+        "type": "administrative",
+        "addresstype": "boundary",
+        "display_name": "‏محافظة بورسعيد, مصر",
+        "address": "{'state': '\\u200fمحافظة بورسعيد', 'country': 'مصر', 'country_code': 'eg'}"
+    },
+    {
+        "place_id": 124358320,
+        "lat": 58.0593210091,
+        "lon": 58.0550380162,
+        "category": "highway",
+        "type": "unclassified",
+        "addresstype": "road",
+        "display_name": "Скальнинское сельское поселение, Лысьвенский городской округ, Пермский край, Приволжский федеральный округ, 618950, РФ",
+        "address": "{'city': 'Скальнинское сельское поселение', 'county': 'Лысьвенский городской округ', 'state': 'Пермский край', 'postcode': '618950', 'country': 'РФ', 'country_code': 'ru'}"
+    },
+    {
+        "place_id": 94143618,
+        "lat": 54.062852608,
+        "lon": 54.7382484406,
+        "category": "highway",
+        "type": "unclassified",
+        "addresstype": "road",
+        "display_name": "Каран, Альшеевский район, Башкортостан, Приволжский федеральный округ, 452107, РФ",
+        "address": "{'hamlet': 'Каран', 'county': 'Альшеевский район', 'state': 'Башкортостан', 'postcode': '452107', 'country': 'РФ', 'country_code': 'ru'}"
+    },
+    {
+        "place_id": 179025179,
+        "lat": 58.6766521277,
+        "lon": 58.5542144685,
+        "category": "boundary",
+        "type": "administrative",
+        "addresstype": "boundary",
+        "display_name": "Межселенная территория, Горнозаводский район, Пермский край, Приволжский федеральный округ, 618861, РФ",
+        "address": "{'city': 'Межселенная территория', 'county': 'Горнозаводский район', 'state': 'Пермский край', 'postcode': '618861', 'country': 'РФ', 'country_code': 'ru'}"
+    },
+    {
+        "place_id": 112791348,
+        "lat": 54.3282606926,
+        "lon": 54.3306287697,
+        "category": "highway",
+        "type": "unclassified",
+        "addresstype": "road",
+        "display_name": "Гусаркино, Белебеевский район, Башкортостан, Приволжский федеральный округ, 452034, РФ",
+        "address": "{'hamlet': 'Гусаркино', 'county': 'Белебеевский район', 'state': 'Башкортостан', 'postcode': '452034', 'country': 'РФ', 'country_code': 'ru'}"
+    },
+    {
+        "place_id": 179148614,
+        "lat": 32.7279258848,
+        "lon": 32.0025478849,
+        "category": "boundary",
+        "type": "administrative",
+        "addresstype": "boundary",
+        "display_name": "دمياط, مصر",
+        "address": "{'state': 'دمياط', 'country': 'مصر', 'country_code': 'eg'}"
+    },
+    {
+        "place_id": 179148614,
+        "lat": 32.730881117,
+        "lon": 32.8532769565,
+        "category": "boundary",
+        "type": "administrative",
+        "addresstype": "boundary",
+        "display_name": "دمياط, مصر",
+        "address": "{'state': 'دمياط', 'country': 'مصر', 'country_code': 'eg'}"
+    },
+    {
+        "place_id": 179148614,
+        "lat": 32.5087863967,
+        "lon": 32.6762732692,
+        "category": "boundary",
+        "type": "administrative",
+        "addresstype": "boundary",
+        "display_name": "دمياط, مصر",
+        "address": "{'state': 'دمياط', 'country': 'مصر', 'country_code': 'eg'}"
+    },
+    {
+        "place_id": 234675353,
+        "lat": 54.1513934548,
+        "lon": 54.5656267276,
+        "category": "boundary",
+        "type": "administrative",
+        "addresstype": "boundary",
+        "display_name": "Трунтаишевский сельсовет, Альшеевский район, Башкортостан, Приволжский федеральный округ, РФ",
+        "address": "{'city': 'Трунтаишевский сельсовет', 'county': 'Альшеевский район', 'state': 'Башкортостан', 'country': 'РФ', 'country_code': 'ru'}"
+    },
+    {
+        "place_id": 77800157,
+        "lat": 54.2243621484,
+        "lon": 54.5586691815,
+        "category": "highway",
+        "type": "residential",
+        "addresstype": "road",
+        "display_name": "Курятмасово, Давлекановский район, Башкортостан, Приволжский федеральный округ, РФ",
+        "address": "{'village': 'Курятмасово', 'county': 'Давлекановский район', 'state': 'Башкортостан', 'country': 'РФ', 'country_code': 'ru'}"
+    },
+    {
+        "place_id": 179025179,
+        "lat": 58.6405295162,
+        "lon": 58.631105246,
+        "category": "boundary",
+        "type": "administrative",
+        "addresstype": "boundary",
+        "display_name": "Межселенная территория, Горнозаводский район, Пермский край, Приволжский федеральный округ, 618861, РФ",
+        "address": "{'city': 'Межселенная территория', 'county': 'Горнозаводский район', 'state': 'Пермский край', 'postcode': '618861', 'country': 'РФ', 'country_code': 'ru'}"
+    },
+    {
+        "place_id": 177095093,
+        "lat": 58.3027007713,
+        "lon": 58.0557629261,
+        "category": "highway",
+        "type": "residential",
+        "addresstype": "road",
+        "display_name": "улица Спорта, Скальнинское сельское поселение, Чусовской район, Пермский край, Приволжский федеральный округ, 618231, РФ",
+        "address": "{'road': 'улица Спорта', 'city': 'Скальнинское сельское поселение', 'county': 'Чусовской район', 'state': 'Пермский край', 'postcode': '618231', 'country': 'РФ', 'country_code': 'ru'}"
+    },
+    {
+        "place_id": 115207142,
+        "lat": 54.3026883155,
+        "lon": 53.9090486567,
+        "category": "highway",
+        "type": "unclassified",
+        "addresstype": "road",
+        "display_name": "Новонарышево, Туймазинский район, Башкортостан, Приволжский федеральный округ, РФ",
+        "address": "{'hamlet': 'Новонарышево', 'county': 'Туймазинский район', 'state': 'Башкортостан', 'country': 'РФ', 'country_code': 'ru'}"
+    },
+    {
+        "place_id": 7363314,
+        "lat": 32.1165582641,
+        "lon": 32.3502297572,
+        "category": "place",
+        "type": "county",
+        "addresstype": "place",
+        "display_name": "مركز شربين, دمياط, مصر",
+        "address": "{'county': 'مركز شربين', 'state': 'دمياط', 'country': 'مصر', 'country_code': 'eg'}"
+    },
+    {
+        "place_id": 132991535,
+        "lat": 58.3971890305,
+        "lon": 58.5598004103,
+        "category": "highway",
+        "type": "trunk",
+        "addresstype": "road",
+        "display_name": "Горнозаводск — гр. Свердловской обл., Горнозаводское городское поселение, Горнозаводский район, Пермский край, Приволжский федеральный округ, 618860, РФ",
+        "address": "{'road': 'Горнозаводск — гр. Свердловской обл.', 'city': 'Горнозаводское городское поселение', 'county': 'Горнозаводский район', 'state': 'Пермский край', 'postcode': '618860', 'country': 'РФ', 'country_code': 'ru'}"
+    },
+    {
+        "place_id": 179148614,
+        "lat": 32.5428329181,
+        "lon": 32.6804766664,
+        "category": "boundary",
+        "type": "administrative",
+        "addresstype": "boundary",
+        "display_name": "دمياط, مصر",
+        "address": "{'state': 'دمياط', 'country': 'مصر', 'country_code': 'eg'}"
+    },
+    {
+        "place_id": 7363314,
+        "lat": 31.9756515203,
+        "lon": 32.0075499291,
+        "category": "place",
+        "type": "county",
+        "addresstype": "place",
+        "display_name": "مركز شربين, دمياط, مصر",
+        "address": "{'county': 'مركز شربين', 'state': 'دمياط', 'country': 'مصر', 'country_code': 'eg'}"
+    },
+    {
+        "place_id": 179148614,
+        "lat": 32.5196991122,
+        "lon": 32.5197650435,
+        "category": "boundary",
+        "type": "administrative",
+        "addresstype": "boundary",
+        "display_name": "دمياط, مصر",
+        "address": "{'state': 'دمياط', 'country': 'مصر', 'country_code': 'eg'}"
+    },
+    {
+        "place_id": 175943837,
+        "lat": 53.7965037054,
+        "lon": 54.6362958771,
+        "category": "highway",
+        "type": "tertiary",
+        "addresstype": "road",
+        "display_name": "Никифарово - Гайниямак, Никифаровский сельсовет, Альшеевский район, Башкортостан, Приволжский федеральный округ, 452131, РФ",
+        "address": "{'road': 'Никифарово - Гайниямак', 'city': 'Никифаровский сельсовет', 'county': 'Альшеевский район', 'state': 'Башкортостан', 'postcode': '452131', 'country': 'РФ', 'country_code': 'ru'}"
+    },
+    {
+        "place_id": 179148614,
+        "lat": 32.7384068207,
+        "lon": 31.9146870352,
+        "category": "boundary",
+        "type": "administrative",
+        "addresstype": "boundary",
+        "display_name": "دمياط, مصر",
+        "address": "{'state': 'دمياط', 'country': 'مصر', 'country_code': 'eg'}"
+    },
+    {
+        "place_id": 179947540,
+        "lat": 58.8917985474,
+        "lon": 58.0457004174,
+        "category": "boundary",
+        "type": "administrative",
+        "addresstype": "boundary",
+        "display_name": "Юбилейнинское сельское поселение, Гремячинский район, Пермский край, Приволжский федеральный округ, РФ",
+        "address": "{'city': 'Юбилейнинское сельское поселение', 'county': 'Гремячинский район', 'state': 'Пермский край', 'country': 'РФ', 'country_code': 'ru'}"
+    },
+    {
+        "place_id": 7363314,
+        "lat": 32.0877014072,
+        "lon": 32.0731715045,
+        "category": "place",
+        "type": "county",
+        "addresstype": "place",
+        "display_name": "مركز شربين, دمياط, مصر",
+        "address": "{'county': 'مركز شربين', 'state': 'دمياط', 'country': 'مصر', 'country_code': 'eg'}"
+    },
+    {
+        "place_id": 179148614,
+        "lat": 32.4176291544,
+        "lon": 31.9662007921,
+        "category": "boundary",
+        "type": "administrative",
+        "addresstype": "boundary",
+        "display_name": "دمياط, مصر",
+        "address": "{'state': 'دمياط', 'country': 'مصر', 'country_code': 'eg'}"
+    },
+    {
+        "place_id": 88199766,
+        "lat": 57.9149578265,
+        "lon": 58.335721486,
+        "category": "highway",
+        "type": "tertiary",
+        "addresstype": "road",
+        "display_name": "Кын, Лысьвенский городской округ, Пермский край, Приволжский федеральный округ, 618925, РФ",
+        "address": "{'village': 'Кын', 'county': 'Лысьвенский городской округ', 'state': 'Пермский край', 'postcode': '618925', 'country': 'РФ', 'country_code': 'ru'}"
+    },
+    {
+        "place_id": 115803276,
+        "lat": 58.7874731834,
+        "lon": 58.8015726436,
+        "category": "highway",
+        "type": "unclassified",
+        "addresstype": "road",
+        "display_name": "Медведкинское сельское поселение, Горнозаводский район, Пермский край, Приволжский федеральный округ, РФ",
+        "address": "{'city': 'Медведкинское сельское поселение', 'county': 'Горнозаводский район', 'state': 'Пермский край', 'country': 'РФ', 'country_code': 'ru'}"
+    },
+    {
+        "place_id": 139916275,
+        "lat": 58.7717014034,
+        "lon": 58.4789849855,
+        "category": "highway",
+        "type": "unclassified",
+        "addresstype": "road",
+        "display_name": "Межселенная территория, Горнозаводский район, Пермский край, Приволжский федеральный округ, РФ",
+        "address": "{'city': 'Межселенная территория', 'county': 'Горнозаводский район', 'state': 'Пермский край', 'country': 'РФ', 'country_code': 'ru'}"
+    },
+    {
+        "place_id": 126617824,
+        "lat": 53.7871727154,
+        "lon": 53.8999164987,
+        "category": "landuse",
+        "type": "industrial",
+        "addresstype": "landuse",
+        "display_name": "1035 -  Тарасовка, Ермекеевский район, Башкортостан, Приволжский федеральный округ, РФ",
+        "address": "{'industrial': '1035 -  Тарасовка', 'county': 'Ермекеевский район', 'state': 'Башкортостан', 'country': 'РФ', 'country_code': 'ru'}"
+    },
+    {
+        "place_id": 7363314,
+        "lat": 31.9022222333,
+        "lon": 32.1290584017,
+        "category": "place",
+        "type": "county",
+        "addresstype": "place",
+        "display_name": "مركز شربين, دمياط, مصر",
+        "address": "{'county': 'مركز شربين', 'state': 'دمياط', 'country': 'مصر', 'country_code': 'eg'}"
+    },
+    {
+        "place_id": 179025179,
+        "lat": 58.3227225073,
+        "lon": 58.7149741102,
+        "category": "boundary",
+        "type": "administrative",
+        "addresstype": "boundary",
+        "display_name": "Межселенная территория, Горнозаводский район, Пермский край, Приволжский федеральный округ, 618861, РФ",
+        "address": "{'city': 'Межселенная территория', 'county': 'Горнозаводский район', 'state': 'Пермский край', 'postcode': '618861', 'country': 'РФ', 'country_code': 'ru'}"
+    },
+    {
+        "place_id": 179148614,
+        "lat": 32.7915824139,
+        "lon": 32.0424469312,
+        "category": "boundary",
+        "type": "administrative",
+        "addresstype": "boundary",
+        "display_name": "دمياط, مصر",
+        "address": "{'state': 'دمياط', 'country': 'مصر', 'country_code': 'eg'}"
+    },
+    {
+        "place_id": 7363314,
+        "lat": 32.200547796,
+        "lon": 32.2469013592,
+        "category": "place",
+        "type": "county",
+        "addresstype": "place",
+        "display_name": "مركز شربين, دمياط, مصر",
+        "address": "{'county': 'مركز شربين', 'state': 'دمياط', 'country': 'مصر', 'country_code': 'eg'}"
+    },
+    {
+        "place_id": 7363314,
+        "lat": 32.221342647,
+        "lon": 32.0072675776,
+        "category": "place",
+        "type": "county",
+        "addresstype": "place",
+        "display_name": "مركز شربين, دمياط, مصر",
+        "address": "{'county': 'مركز شربين', 'state': 'دمياط', 'country': 'مصر', 'country_code': 'eg'}"
+    },
+    {
+        "place_id": 179025179,
+        "lat": 58.5055152022,
+        "lon": 58.1018920524,
+        "category": "boundary",
+        "type": "administrative",
+        "addresstype": "boundary",
+        "display_name": "Межселенная территория, Горнозаводский район, Пермский край, Приволжский федеральный округ, 618861, РФ",
+        "address": "{'city': 'Межселенная территория', 'county': 'Горнозаводский район', 'state': 'Пермский край', 'postcode': '618861', 'country': 'РФ', 'country_code': 'ru'}"
+    },
+    {
+        "place_id": 165080235,
+        "lat": 54.4113438955,
+        "lon": 54.1558712196,
+        "category": "highway",
+        "type": "unclassified",
+        "addresstype": "road",
+        "display_name": "Чукадыбашево, Туймазинский район, Башкортостан, Приволжский федеральный округ, РФ",
+        "address": "{'village': 'Чукадыбашево', 'county': 'Туймазинский район', 'state': 'Башкортостан', 'country': 'РФ', 'country_code': 'ru'}"
+    },
+    {
+        "place_id": 179964650,
+        "lat": 58.241460091,
+        "lon": 57.9979471571,
+        "category": "boundary",
+        "type": "administrative",
+        "addresstype": "boundary",
+        "display_name": "Скальнинское сельское поселение, Чусовской район, Пермский край, Приволжский федеральный округ, РФ",
+        "address": "{'city': 'Скальнинское сельское поселение', 'county': 'Чусовской район', 'state': 'Пермский край', 'country': 'РФ', 'country_code': 'ru'}"
+    },
+    {
+        "place_id": 234906690,
+        "lat": 54.4747160419,
+        "lon": 54.3636475465,
+        "category": "place",
+        "type": "neighbourhood",
+        "addresstype": "place",
+        "display_name": "Днепровка, Уртакульский сельсовет, Буздякский район, Башкортостан, Приволжский федеральный округ, РФ",
+        "address": "{'neighbourhood': 'Днепровка', 'city': 'Уртакульский сельсовет', 'county': 'Буздякский район', 'state': 'Башкортостан', 'country': 'РФ', 'country_code': 'ru'}"
+    },
+    {
+        "place_id": 84496625,
+        "lat": 54.019137126,
+        "lon": 53.9844130892,
+        "category": "highway",
+        "type": "unclassified",
+        "addresstype": "road",
+        "display_name": "Рассвет, Белебеевский район, Башкортостан, Приволжский федеральный округ, 452025, РФ",
+        "address": "{'village': 'Рассвет', 'county': 'Белебеевский район', 'state': 'Башкортостан', 'postcode': '452025', 'country': 'РФ', 'country_code': 'ru'}"
+    },
+    {
+        "place_id": 179148614,
+        "lat": 32.3867917681,
+        "lon": 32.5716418013,
+        "category": "boundary",
+        "type": "administrative",
+        "addresstype": "boundary",
+        "display_name": "دمياط, مصر",
+        "address": "{'state': 'دمياط', 'country': 'مصر', 'country_code': 'eg'}"
+    },
+    {
+        "place_id": 163663921,
+        "lat": 54.5495752375,
+        "lon": 54.3337814178,
+        "category": "highway",
+        "type": "residential",
+        "addresstype": "road",
+        "display_name": "Копей-Кубовский сельсовет, Буздякский район, Башкортостан, Приволжский федеральный округ, РФ",
+        "address": "{'city': 'Копей-Кубовский сельсовет', 'county': 'Буздякский район', 'state': 'Башкортостан', 'country': 'РФ', 'country_code': 'ru'}"
+    },
+    {
+        "place_id": 80208424,
+        "lat": 58.8350464369,
+        "lon": 57.9831720258,
+        "category": "highway",
+        "type": "tertiary",
+        "addresstype": "road",
+        "display_name": "Юбилейнинское сельское поселение, Гремячинский район, Пермский край, Приволжский федеральный округ, 618283, РФ",
+        "address": "{'city': 'Юбилейнинское сельское поселение', 'county': 'Гремячинский район', 'state': 'Пермский край', 'postcode': '618283', 'country': 'РФ', 'country_code': 'ru'}"
+    },
+    {
+        "place_id": 179148614,
+        "lat": 32.5829448442,
+        "lon": 32.6390347497,
+        "category": "boundary",
+        "type": "administrative",
+        "addresstype": "boundary",
+        "display_name": "دمياط, مصر",
+        "address": "{'state': 'دمياط', 'country': 'مصر', 'country_code': 'eg'}"
+    },
+    {
+        "place_id": 179025179,
+        "lat": 58.7784228842,
+        "lon": 58.4704189403,
+        "category": "boundary",
+        "type": "administrative",
+        "addresstype": "boundary",
+        "display_name": "Межселенная территория, Горнозаводский район, Пермский край, Приволжский федеральный округ, 618861, РФ",
+        "address": "{'city': 'Межселенная территория', 'county': 'Горнозаводский район', 'state': 'Пермский край', 'postcode': '618861', 'country': 'РФ', 'country_code': 'ru'}"
+    },
+    {
+        "place_id": 122493423,
+        "lat": 54.7388156988,
+        "lon": 54.0616702509,
+        "category": "highway",
+        "type": "secondary",
+        "addresstype": "road",
+        "display_name": "Базгиевский сельсовет, Шаранский район, Башкортостан, Приволжский федеральный округ, РФ",
+        "address": "{'city': 'Базгиевский сельсовет', 'county': 'Шаранский район', 'state': 'Башкортостан', 'country': 'РФ', 'country_code': 'ru'}"
+    },
+    {
+        "place_id": 179148614,
+        "lat": 32.3115983921,
+        "lon": 32.3658676985,
+        "category": "boundary",
+        "type": "administrative",
+        "addresstype": "boundary",
+        "display_name": "دمياط, مصر",
+        "address": "{'state': 'دمياط', 'country': 'مصر', 'country_code': 'eg'}"
+    },
+    {
+        "place_id": 179549046,
+        "lat": 32.3910111285,
+        "lon": 32.4233447731,
+        "category": "boundary",
+        "type": "administrative",
+        "addresstype": "boundary",
+        "display_name": "الدقهلية, مصر",
+        "address": "{'state': 'الدقهلية', 'country': 'مصر', 'country_code': 'eg'}"
+    },
+    {
+        "place_id": 7363314,
+        "lat": 32.0924719828,
+        "lon": 32.3959397407,
+        "category": "place",
+        "type": "county",
+        "addresstype": "place",
+        "display_name": "مركز شربين, دمياط, مصر",
+        "address": "{'county': 'مركز شربين', 'state': 'دمياط', 'country': 'مصر', 'country_code': 'eg'}"
+    },
+    {
+        "place_id": 179148614,
+        "lat": 32.842872775,
+        "lon": 32.5650997116,
+        "category": "boundary",
+        "type": "administrative",
+        "addresstype": "boundary",
+        "display_name": "دمياط, مصر",
+        "address": "{'state': 'دمياط', 'country': 'مصر', 'country_code': 'eg'}"
+    },
+    {
+        "place_id": 80370582,
+        "lat": 54.6277404318,
+        "lon": 54.4427073386,
+        "category": "highway",
+        "type": "trunk",
+        "addresstype": "road",
+        "display_name": "«Урал», Старые Богады, Буздякский район, Башкортостан, Приволжский федеральный округ, 452719, РФ",
+        "address": "{'road': '«Урал»', 'village': 'Старые Богады', 'county': 'Буздякский район', 'state': 'Башкортостан', 'postcode': '452719', 'country': 'РФ', 'country_code': 'ru'}"
+    },
+    {
+        "place_id": 7363314,
+        "lat": 32.2121990068,
+        "lon": 31.9189143227,
+        "category": "place",
+        "type": "county",
+        "addresstype": "place",
+        "display_name": "مركز شربين, دمياط, مصر",
+        "address": "{'county': 'مركز شربين', 'state': 'دمياط', 'country': 'مصر', 'country_code': 'eg'}"
+    },
+    {
+        "place_id": 179798670,
+        "lat": 32.3883308326,
+        "lon": 32.5917168655,
+        "category": "boundary",
+        "type": "administrative",
+        "addresstype": "boundary",
+        "display_name": "شمال سيناء, مصر",
+        "address": "{'state': 'شمال سيناء', 'country': 'مصر', 'country_code': 'eg'}"
+    },
+    {
+        "place_id": 179561704,
+        "lat": 57.909542026,
+        "lon": 57.903384902,
+        "category": "boundary",
+        "type": "administrative",
+        "addresstype": "boundary",
+        "display_name": "Лысьвенский городской округ, Пермский край, Приволжский федеральный округ, РФ",
+        "address": "{'county': 'Лысьвенский городской округ', 'state': 'Пермский край', 'country': 'РФ', 'country_code': 'ru'}"
+    },
+    {
+        "place_id": 179148614,
+        "lat": 32.3972124606,
+        "lon": 32.5652489485,
+        "category": "boundary",
+        "type": "administrative",
+        "addresstype": "boundary",
+        "display_name": "دمياط, مصر",
+        "address": "{'state': 'دمياط', 'country': 'مصر', 'country_code': 'eg'}"
+    },
+    {
+        "place_id": 114140373,
+        "lat": 54.2548279113,
+        "lon": 54.1604889229,
+        "category": "highway",
+        "type": "residential",
+        "addresstype": "road",
+        "display_name": "Тузлукуш, Белебеевский район, Башкортостан, Приволжский федеральный округ, 452036, РФ",
+        "address": "{'village': 'Тузлукуш', 'county': 'Белебеевский район', 'state': 'Башкортостан', 'postcode': '452036', 'country': 'РФ', 'country_code': 'ru'}"
+    },
+    {
+        "place_id": 179025179,
+        "lat": 58.7925935005,
+        "lon": 58.440554417,
+        "category": "boundary",
+        "type": "administrative",
+        "addresstype": "boundary",
+        "display_name": "Межселенная территория, Горнозаводский район, Пермский край, Приволжский федеральный округ, 618861, РФ",
+        "address": "{'city': 'Межселенная территория', 'county': 'Горнозаводский район', 'state': 'Пермский край', 'postcode': '618861', 'country': 'РФ', 'country_code': 'ru'}"
+    },
+    {
+        "place_id": 134576901,
+        "lat": 53.9259951541,
+        "lon": 53.7724548677,
+        "category": "landuse",
+        "type": "industrial",
+        "addresstype": "landuse",
+        "display_name": "577 гор, Ермекеевский район, Башкортостан, Приволжский федеральный округ, РФ",
+        "address": "{'industrial': '577 гор', 'county': 'Ермекеевский район', 'state': 'Башкортостан', 'country': 'РФ', 'country_code': 'ru'}"
+    },
+    {
+        "place_id": 137030433,
+        "lat": 58.5101676829,
+        "lon": 58.6483648389,
+        "category": "highway",
+        "type": "unclassified",
+        "addresstype": "road",
+        "display_name": "Межселенная территория, Горнозаводский район, Пермский край, Приволжский федеральный округ, 618850, РФ",
+        "address": "{'city': 'Межселенная территория', 'county': 'Горнозаводский район', 'state': 'Пермский край', 'postcode': '618850', 'country': 'РФ', 'country_code': 'ru'}"
+    },
+    {
+        "place_id": 139896606,
+        "lat": 58.7908488956,
+        "lon": 58.8736036521,
+        "category": "highway",
+        "type": "unclassified",
+        "addresstype": "road",
+        "display_name": "Медведкинское сельское поселение, Горнозаводский район, Пермский край, Приволжский федеральный округ, РФ",
+        "address": "{'city': 'Медведкинское сельское поселение', 'county': 'Горнозаводский район', 'state': 'Пермский край', 'country': 'РФ', 'country_code': 'ru'}"
+    },
+    {
+        "place_id": 143622851,
+        "lat": 58.357147602,
+        "lon": 57.9633718623,
+        "category": "highway",
+        "type": "residential",
+        "addresstype": "road",
+        "display_name": "улица Калинина, Скальнинское сельское поселение, Чусовской район, Пермский край, Приволжский федеральный округ, 618230, РФ",
+        "address": "{'road': 'улица Калинина', 'city': 'Скальнинское сельское поселение', 'county': 'Чусовской район', 'state': 'Пермский край', 'postcode': '618230', 'country': 'РФ', 'country_code': 'ru'}"
+    },
+    {
+        "place_id": 179025179,
+        "lat": 58.1061469795,
+        "lon": 58.3850803516,
+        "category": "boundary",
+        "type": "administrative",
+        "addresstype": "boundary",
+        "display_name": "Межселенная территория, Горнозаводский район, Пермский край, Приволжский федеральный округ, 618861, РФ",
+        "address": "{'city': 'Межселенная территория', 'county': 'Горнозаводский район', 'state': 'Пермский край', 'postcode': '618861', 'country': 'РФ', 'country_code': 'ru'}"
+    },
+    {
+        "place_id": 117285854,
+        "lat": 54.1684579455,
+        "lon": 53.9603279247,
+        "category": "highway",
+        "type": "tertiary",
+        "addresstype": "road",
+        "display_name": "Белебей — Ермолкино, Аделькино, Белебеевский район, Башкортостан, Приволжский федеральный округ, 452022, РФ",
+        "address": "{'road': 'Белебей — Ермолкино', 'village': 'Аделькино', 'county': 'Белебеевский район', 'state': 'Башкортостан', 'postcode': '452022', 'country': 'РФ', 'country_code': 'ru'}"
+    },
+    {
+        "place_id": 85562164,
+        "lat": 54.1552608319,
+        "lon": 54.1472848684,
+        "category": "highway",
+        "type": "tertiary",
+        "addresstype": "road",
+        "display_name": "80Н-007, Тузлукушевский сельсовет, Белебеевский район, Башкортостан, Приволжский федеральный округ, 452008, РФ",
+        "address": "{'road': '80Н-007', 'city': 'Тузлукушевский сельсовет', 'county': 'Белебеевский район', 'state': 'Башкортостан', 'postcode': '452008', 'country': 'РФ', 'country_code': 'ru'}"
+    },
+    {
+        "place_id": 179148614,
+        "lat": 32.4235331629,
+        "lon": 31.8940157727,
+        "category": "boundary",
+        "type": "administrative",
+        "addresstype": "boundary",
+        "display_name": "دمياط, مصر",
+        "address": "{'state': 'دمياط', 'country': 'مصر', 'country_code': 'eg'}"
+    },
+    {
+        "place_id": 7363314,
+        "lat": 32.2018657872,
+        "lon": 32.3217489513,
+        "category": "place",
+        "type": "county",
+        "addresstype": "place",
+        "display_name": "مركز شربين, دمياط, مصر",
+        "address": "{'county': 'مركز شربين', 'state': 'دمياط', 'country': 'مصر', 'country_code': 'eg'}"
+    },
+    {
+        "place_id": 179549046,
+        "lat": 32.0516729865,
+        "lon": 32.6628544849,
+        "category": "boundary",
+        "type": "administrative",
+        "addresstype": "boundary",
+        "display_name": "الدقهلية, مصر",
+        "address": "{'state': 'الدقهلية', 'country': 'مصر', 'country_code': 'eg'}"
+    },
+    {
+        "place_id": 115161930,
+        "lat": 54.1880248377,
+        "lon": 53.892141824,
+        "category": "highway",
+        "type": "residential",
+        "addresstype": "road",
+        "display_name": "Ермолкино, Белебеевский район, Башкортостан, Приволжский федеральный округ, 452022, РФ",
+        "address": "{'village': 'Ермолкино', 'county': 'Белебеевский район', 'state': 'Башкортостан', 'postcode': '452022', 'country': 'РФ', 'country_code': 'ru'}"
+    },
+    {
+        "place_id": 112503902,
+        "lat": 53.989677407,
+        "lon": 54.5039569978,
+        "category": "highway",
+        "type": "unclassified",
+        "addresstype": "road",
+        "display_name": "Чубукаран, Белебеевский район, Башкортостан, Приволжский федеральный округ, 452016, РФ",
+        "address": "{'hamlet': 'Чубукаран', 'county': 'Белебеевский район', 'state': 'Башкортостан', 'postcode': '452016', 'country': 'РФ', 'country_code': 'ru'}"
+    },
+    {
+        "place_id": 123511993,
+        "lat": 53.9151546673,
+        "lon": 54.4357448488,
+        "category": "highway",
+        "type": "secondary",
+        "addresstype": "road",
+        "display_name": "Аксеново - Аксаково - Белебей, Аксёновский сельсовет, Белебеевский район, Башкортостан, Приволжский федеральный округ, 452134, РФ",
+        "address": "{'road': 'Аксеново - Аксаково - Белебей', 'city': 'Аксёновский сельсовет', 'county': 'Белебеевский район', 'state': 'Башкортостан', 'postcode': '452134', 'country': 'РФ', 'country_code': 'ru'}"
+    },
+    {
+        "place_id": 132991535,
+        "lat": 58.397904623,
+        "lon": 58.5818684316,
+        "category": "highway",
+        "type": "trunk",
+        "addresstype": "road",
+        "display_name": "Горнозаводск — гр. Свердловской обл., Горнозаводское городское поселение, Горнозаводский район, Пермский край, Приволжский федеральный округ, 618860, РФ",
+        "address": "{'road': 'Горнозаводск — гр. Свердловской обл.', 'city': 'Горнозаводское городское поселение', 'county': 'Горнозаводский район', 'state': 'Пермский край', 'postcode': '618860', 'country': 'РФ', 'country_code': 'ru'}"
+    },
+    {
+        "place_id": 178181711,
+        "lat": 57.9398396342,
+        "lon": 58.7228653156,
+        "category": "boundary",
+        "type": "administrative",
+        "addresstype": "boundary",
+        "display_name": "городской округ Нижний Тагил, Горнозаводской управленческий округ, Свердловская область, Уральский федеральный округ, РФ",
+        "address": "{'county': 'городской округ Нижний Тагил', 'state_district': 'Горнозаводской управленческий округ', 'state': 'Свердловская область', 'country': 'РФ', 'country_code': 'ru'}"
+    },
+    {
+        "place_id": 166759483,
+        "lat": 54.6333801292,
+        "lon": 53.903690786,
+        "category": "highway",
+        "type": "residential",
+        "addresstype": "road",
+        "display_name": "Татар-Улкановский сельсовет, Туймазинский район, Башкортостан, Приволжский федеральный округ, РФ",
+        "address": "{'city': 'Татар-Улкановский сельсовет', 'county': 'Туймазинский район', 'state': 'Башкортостан', 'country': 'РФ', 'country_code': 'ru'}"
+    },
+    {
+        "place_id": 122832309,
+        "lat": 54.658398607,
+        "lon": 54.1346642822,
+        "category": "highway",
+        "type": "tertiary",
+        "addresstype": "road",
+        "display_name": "Бишкураевский сельсовет, Туймазинский район, Башкортостан, Приволжский федеральный округ, РФ",
+        "address": "{'city': 'Бишкураевский сельсовет', 'county': 'Туймазинский район', 'state': 'Башкортостан', 'country': 'РФ', 'country_code': 'ru'}"
+    },
+    {
+        "place_id": 179146544,
+        "lat": 32.1328918129,
+        "lon": 32.7584389466,
+        "category": "boundary",
+        "type": "administrative",
+        "addresstype": "boundary",
+        "display_name": "‏محافظة بورسعيد, مصر",
+        "address": "{'state': '\\u200fمحافظة بورسعيد', 'country': 'مصر', 'country_code': 'eg'}"
+    },
+    {
+        "place_id": 7363314,
+        "lat": 32.0514684324,
+        "lon": 32.5742293684,
+        "category": "place",
+        "type": "county",
+        "addresstype": "place",
+        "display_name": "مركز شربين, دمياط, مصر",
+        "address": "{'county': 'مركز شربين', 'state': 'دمياط', 'country': 'مصر', 'country_code': 'eg'}"
+    },
+    {
+        "place_id": 178181711,
+        "lat": 58.0398798791,
+        "lon": 58.8576512249,
+        "category": "boundary",
+        "type": "administrative",
+        "addresstype": "boundary",
+        "display_name": "городской округ Нижний Тагил, Горнозаводской управленческий округ, Свердловская область, Уральский федеральный округ, РФ",
+        "address": "{'county': 'городской округ Нижний Тагил', 'state_district': 'Горнозаводской управленческий округ', 'state': 'Свердловская область', 'country': 'РФ', 'country_code': 'ru'}"
+    },
+    {
+        "place_id": 85226994,
+        "lat": 54.3791794315,
+        "lon": 54.6760136245,
+        "category": "highway",
+        "type": "tertiary",
+        "addresstype": "road",
+        "display_name": "80Н-011, Ивановский сельсовет, Давлекановский район, Башкортостан, Приволжский федеральный округ, РФ",
+        "address": "{'road': '80Н-011', 'city': 'Ивановский сельсовет', 'county': 'Давлекановский район', 'state': 'Башкортостан', 'country': 'РФ', 'country_code': 'ru'}"
+    },
+    {
+        "place_id": 178181711,
+        "lat": 58.1174708439,
+        "lon": 58.6952971579,
+        "category": "boundary",
+        "type": "administrative",
+        "addresstype": "boundary",
+        "display_name": "городской округ Нижний Тагил, Горнозаводской управленческий округ, Свердловская область, Уральский федеральный округ, РФ",
+        "address": "{'county': 'городской округ Нижний Тагил', 'state_district': 'Горнозаводской управленческий округ', 'state': 'Свердловская область', 'country': 'РФ', 'country_code': 'ru'}"
+    },
+    {
+        "place_id": 164264696,
+        "lat": 54.661899181,
+        "lon": 54.2828733488,
+        "category": "highway",
+        "type": "residential",
+        "addresstype": "road",
+        "display_name": "Ермунчино, Туймазинский район, Башкортостан, Приволжский федеральный округ, РФ",
+        "address": "{'village': 'Ермунчино', 'county': 'Туймазинский район', 'state': 'Башкортостан', 'country': 'РФ', 'country_code': 'ru'}"
+    },
+    {
+        "place_id": 178181711,
+        "lat": 58.0340850204,
+        "lon": 58.6438323005,
+        "category": "boundary",
+        "type": "administrative",
+        "addresstype": "boundary",
+        "display_name": "городской округ Нижний Тагил, Горнозаводской управленческий округ, Свердловская область, Уральский федеральный округ, РФ",
+        "address": "{'county': 'городской округ Нижний Тагил', 'state_district': 'Горнозаводской управленческий округ', 'state': 'Свердловская область', 'country': 'РФ', 'country_code': 'ru'}"
+    },
+    {
+        "place_id": 164241418,
+        "lat": 54.5496177165,
+        "lon": 53.7811792279,
+        "category": "highway",
+        "type": "residential",
+        "addresstype": "road",
+        "display_name": "Дуслык, Туймазинский район, Башкортостан, Приволжский федеральный округ, 452774, РФ",
+        "address": "{'village': 'Дуслык', 'county': 'Туймазинский район', 'state': 'Башкортостан', 'postcode': '452774', 'country': 'РФ', 'country_code': 'ru'}"
+    },
+    {
+        "place_id": 179148614,
+        "lat": 32.6287862628,
+        "lon": 32.3298495402,
+        "category": "boundary",
+        "type": "administrative",
+        "addresstype": "boundary",
+        "display_name": "دمياط, مصر",
+        "address": "{'state': 'دمياط', 'country': 'مصر', 'country_code': 'eg'}"
+    },
+    {
+        "place_id": 115119667,
+        "lat": 54.0752152468,
+        "lon": 53.8611514684,
+        "category": "highway",
+        "type": "residential",
+        "addresstype": "road",
+        "display_name": "Речная улица, Дурасово, Белебеевский район, Башкортостан, Приволжский федеральный округ, РФ",
+        "address": "{'road': 'Речная улица', 'hamlet': 'Дурасово', 'county': 'Белебеевский район', 'state': 'Башкортостан', 'country': 'РФ', 'country_code': 'ru'}"
+    },
+    {
+        "place_id": 123307867,
+        "lat": 58.5890911571,
+        "lon": 58.1913200593,
+        "category": "highway",
+        "type": "unclassified",
+        "addresstype": "road",
+        "display_name": "Пашийское сельское поселение, Горнозаводский район, Пермский край, Приволжский федеральный округ, 618825, РФ",
+        "address": "{'city': 'Пашийское сельское поселение', 'county': 'Горнозаводский район', 'state': 'Пермский край', 'postcode': '618825', 'country': 'РФ', 'country_code': 'ru'}"
+    },
+    {
+        "place_id": 96422416,
+        "lat": 53.9915277593,
+        "lon": 53.9435844111,
+        "category": "highway",
+        "type": "construction",
+        "addresstype": "highway",
+        "display_name": "Шалтинское сельское поселение, Ермекеевский район, Татарстан, Приволжский федеральный округ, 452031, РФ",
+        "address": "{'city': 'Шалтинское сельское поселение', 'county': 'Ермекеевский район', 'state': 'Татарстан', 'postcode': '452031', 'country': 'РФ', 'country_code': 'ru'}"
+    },
+    {
+        "place_id": 179148614,
+        "lat": 32.7182751402,
+        "lon": 32.0697325441,
+        "category": "boundary",
+        "type": "administrative",
+        "addresstype": "boundary",
+        "display_name": "دمياط, مصر",
+        "address": "{'state': 'دمياط', 'country': 'مصر', 'country_code': 'eg'}"
+    },
+    {
+        "place_id": 111098955,
+        "lat": 58.4769099467,
+        "lon": 58.4332372493,
+        "category": "highway",
+        "type": "unclassified",
+        "addresstype": "road",
+        "display_name": "Горнозаводское городское поселение, Горнозаводский район, Пермский край, Приволжский федеральный округ, РФ",
+        "address": "{'city': 'Горнозаводское городское поселение', 'county': 'Горнозаводский район', 'state': 'Пермский край', 'country': 'РФ', 'country_code': 'ru'}"
+    }
+]
